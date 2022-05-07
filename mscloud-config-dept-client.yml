@@ -2,7 +2,7 @@
   profiles: 
     actiove:
     - dev
-	
+
 ---
 server:
   port: 8001
