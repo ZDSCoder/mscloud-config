@@ -44,9 +44,8 @@ info:
   build.artifactId: $project.artifactId$
   build.version: $project.version$
   
-  ---
-  
-  server:
+---
+server:
   port: 8001
     
 spring:
