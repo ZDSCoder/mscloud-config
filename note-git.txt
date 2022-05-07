@@ -26,6 +26,9 @@ git 与 guihub（外网git的代码托管中心，也可以使用码云）  局域网可以使用gitlab做代
 2开团队协作
 见原理图
 
+
+git add                   git commit -m ""                       git push
+
 git命令行操作
 本地库操作
 初始化，基本操作，分支管理
